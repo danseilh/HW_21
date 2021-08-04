@@ -28,6 +28,12 @@ color: #222;
   height: 100%;
 }
 
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 .navbar-brand img{
   height: 50%;
 }
